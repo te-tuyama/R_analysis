@@ -1,2 +1,2 @@
-# R_analysis
-R studioを用いた解析
+# R studioを用いた解析
+

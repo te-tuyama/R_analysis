@@ -1,5 +1,5 @@
 # このレポジトリについて
 
-・R version 4.2.0を使っています
+・R version 4.2.0
 
-・R studioで行っています
+・R studioで行う
